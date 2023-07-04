@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,200&display=swap');
+
+:root{
+  --branco: white;
+  --preto: rgb(26, 26, 26);
+  --roxo-escuro-opaco: rgba(27, 24, 52, 0.8);
+  --roxo-escuro-brilhante: rgba(51, 51, 153, 0.8);
+  --roxo-claro-brilhante: rgba(102, 102, 204, 0.7);
+  --verde: rgb(0, 179, 89);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

@@ -26,5 +26,19 @@ body{
 
   width: 100vw;
   height: 100vh;
-  padding: 3rem;
+  padding: 30px;
+}
+
+header{
+  text-align: center;
+}
+
+header h1{
+  margin: 5px;
+  font-size: 2rem;
+}
+
+header p{
+  font-weight: 200;
+  font-style: italic;
 }

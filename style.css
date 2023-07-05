@@ -26,7 +26,7 @@ body{
 
   width: 100vw;
   height: 100vh;
-  padding: 30px;
+  padding: 30px 10px;
 }
 
 header{
@@ -41,4 +41,15 @@ header h1{
 header p{
   font-weight: 200;
   font-style: italic;
+}
+
+form{
+  margin: 30px auto;
+  padding: 40px;
+
+  width: 700px;
+  max-width: 90%;
+  
+  background-color: var(--roxo-escuro-opaco);
+  border-radius: 5px;
 }

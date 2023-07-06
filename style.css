@@ -53,6 +53,23 @@ form{
   border-radius: 5px;
 }
 
+label{
+  display: block;
+  margin: 1rem 0 .5rem 0;
+}
+
+label:first-of-type{
+  margin-top: 0;
+}
+
+input{
+  width: 100%;
+  padding: .7rem;  
+  font-size: 1.1rem;
+  color: var(--preto);
+  border-radius: 5px;
+}
+
 @media only screen and (min-width:600px){
 
   body{

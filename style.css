@@ -74,7 +74,7 @@ input, select{
   border-radius: 5px;
 }
 
-input[type='radio']{
+input[type='radio'], input[type='checkbox']{
   width: initial;
   margin: .5rem;
   margin-left: 0;

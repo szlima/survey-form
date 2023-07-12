@@ -16,7 +16,7 @@
 }
 
 body{
-  background: linear-gradient(to bottom, var(--roxo-escuro-brilhante), var(--roxo-claro-brilhante)), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg) no-repeat center;
+  background: linear-gradient(to bottom, var(--roxo-escuro-brilhante), var(--roxo-claro-brilhante)), url(img/survey-form-background.jpeg) no-repeat center;
   background-size: cover;  
   background-attachment: fixed;
   color: var(--branco);
